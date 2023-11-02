@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathanael Finian
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning API
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Where?!?!?
 - 📫 How to reach me nathanfinian@gmail.com
 
 <!---
